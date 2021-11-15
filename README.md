@@ -8,7 +8,11 @@ It supports tablet and **pen pressure** with the help of `QTabletEvents`. So you
         *Open image from disk and draw into it*  
         *Save your file in multiple image formats*  
         *Quickly switch tools with assigned shortcuts*
-        
+
+![icon](https://user-images.githubusercontent.com/80115356/141755218-0f76e086-e1c2-4f89-ab3e-5b004f12d229.png)  
+![ss](https://user-images.githubusercontent.com/80115356/141756973-5f2e6c5e-4c4d-4bb0-b28d-adc8dcdb8261.jpg)
+
+
 Some limitations of these are, *one step undo support only :) and handling low res images*. So jagged lines may show up while using smaller brushes. But point interpolation function is implemented with a soft alpha texture. So you will get smoother lines with larger brush size. Another thing not implemented yet is zooming and panning.
 But as it handle low res images and limited functionalities, it is very light in resources usage.  
   
