@@ -7,7 +7,10 @@ It supports tablet and **pen pressure** with the help of `QTabletEvents`. So you
         *Pen size, eraser, clearing board, other basic drawing functionalities.*  
         *Open image from disk and draw into it*  
         *Save your file in multiple image formats*  
-        *Quickly switch tools with assigned shortcuts*
+        *Quickly switch tools with assigned shortcuts*  
+
+**Crop and save:** You can resize the application window to crop extra parts of the image before saving ;P But resizing the window doesnt actually crop the image. So you will get the part back when you sacle the window up again!
+  
 
 ![icon](https://user-images.githubusercontent.com/80115356/141755218-0f76e086-e1c2-4f89-ab3e-5b004f12d229.png)  
 ![ss](https://user-images.githubusercontent.com/80115356/141756973-5f2e6c5e-4c4d-4bb0-b28d-adc8dcdb8261.jpg)
